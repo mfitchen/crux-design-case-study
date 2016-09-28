@@ -1,12 +1,12 @@
-# _Arctic Wild_
+# _Design Case Study [ crux buildinng x restoration ]_
 
-#### _Epicodus: CSS (Week 4 Solo Project), July 22, 2016_
+#### _Epicodus: Design (Week 4 Solo Project), September 28, 2016_
 
 #### By _**Marty Fitchen**_
 
 ## Description
 
-_This is an Epicodus student solo project recreating the <a href="http://arcticwild.com/">Arctic Wild</a> web page that uses Flexbox, Sass, and HTML exclusively to style and manipulate the web page with media queries and responsive design. See spec below:_
+_This is an Epicodus student solo project creating a web page that displays a deep-dive Design Case Study for any Epicodus project. I chose to review my Design project about CRUX Building x Restoration. See spec below:_
 
 Project Requirements & Objectives  | Complete
 :------------- | :-------------: |
