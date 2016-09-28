@@ -1,4 +1,4 @@
-# _Design Case Study [ crux buildinng x restoration ]_
+# _Design Case Study [ crux building x restoration ]_
 
 #### _Epicodus: Design (Week 4 Solo Project), September 28, 2016_
 
