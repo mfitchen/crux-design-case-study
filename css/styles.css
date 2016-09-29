@@ -151,7 +151,7 @@ h3 {
   background-color: #000000; }
 
 #logo {
-  -webkit-animation: logoScale 2.5s infinite; }
+  -webkit-animation: logoScale 2s infinite; }
 
 @keyframes logoScale {
   0% {
@@ -160,5 +160,16 @@ h3 {
     transform: scale(1.06125); }
   100% {
     transform: scale(1); } }
+#next {
+  opacity: 0;
+  -webkit-animation: nextButton 3s infinite; }
+
+@keyframes nextButton {
+  100% {
+    opacity: 1; }
+  50% {
+    opacity: 0.5; }
+  0% {
+    opacity: 1; } }
 
 /*# sourceMappingURL=styles.css.map */
