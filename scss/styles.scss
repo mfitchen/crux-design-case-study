@@ -184,3 +184,19 @@ h3 {
 #footer {
   background-color: #000000;
 }
+
+#logo {
+  -webkit-animation: logoScale 2.5s infinite;
+}
+
+@keyframes logoScale {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.06125);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
