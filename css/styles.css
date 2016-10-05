@@ -67,7 +67,7 @@ h3 {
 
 .section {
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
   padding: 10%;
   display: flex; }
   .section .section-title-text, .section .section-image {
